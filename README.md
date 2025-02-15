@@ -1,6 +1,8 @@
 # 💫 About Me:
 🎓 Computer Science (BSCS) Student.<br>💻 Aspiring Software Engineer passionate about 🤖 AI, 📈 Machine Learning (ML), and 🧠 Deep Learning.<br>🧑‍💻 Tech Stack & Skills:<br>🐍 Python | 💻 C# | 🔷 C++ | 📊 R | 🧑‍💻 JavaScript | 🐘 PHP<br>🌐 HTML5 | 🎨 CSS3<br>📊 R for Statistical Analysis & Data Visualization.<br>🚀 Focused on Building Data-Driven & Intelligent Solutions.<br>🌱 Constantly Exploring & Growing with New Technologies.
 
+![Snake Animation](https://github.com/toqeeryasir/toqeeryasir/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/toqeer_yasir?igsh=c3FqcXhmdnQxcTk1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/toqeer-yasir-7b6b56330?trk=contact-info) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@-innocent-44?si=zUksJXPH0nR4Ik7e) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:miantoqeeryasir0@gmail.com) 
