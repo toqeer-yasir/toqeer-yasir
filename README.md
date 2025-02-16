@@ -1,18 +1,4 @@
-<h1 align="center" color="gold">👋 Hi, I'm Toqeer Yasir</h1>
-<p align="center">
-  <a href="https://instagram.com/toqeer_yasir">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=E4405F" alt="Instagram">
-  </a>
-  <a href="https://linkedin.com/in/toqeer-yasir-7b6b56330">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" alt="LinkedIn">
-  </a>
-  <a href="https://youtube.com/@-innocent-44">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=FF0000" alt="YouTube">
-  </a>
-  <a href="mailto:miantoqeeryasir0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="Email">
-  </a>
-</p>
+### 👋 Hi, I'm **Toqeer Yasir** 
 
 ---
 
@@ -32,14 +18,6 @@
 
 ---
 
-
-## 🐍 Contribution Graph
-<p align="center">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/toqeeryasir/toqeeryasir/output/github-snake-dark.svg" />
-</p>
-
----
-
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=toqeeryasir&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
@@ -51,4 +29,16 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=toqeeryasir&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🐍 Contribution Graph
+<img alt="github-snake" src="https://raw.githubusercontent.com/toqeeryasir/toqeeryasir/output/github-snake-dark.svg" />
+
+---
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/toqeer_yasir)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/toqeer-yasir-7b6b56330)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@-innocent-44)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:miantoqeeryasir0@gmail.com)  
+
+---
+[![](https://visitcount.itsvg.in/api?id=toqeeryasir&icon=0&color=0)](https://visitcount.itsvg.in)  
