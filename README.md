@@ -1,5 +1,4 @@
 <p align="center">
-<h2 align="center">👋 Hi, I'm Toqeer Yasir</h2>
   <a href="https://instagram.com/toqeer_yasir">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=E4405F" alt="Instagram">
   </a>
@@ -12,17 +11,6 @@
   <a href="mailto:miantoqeeryasir0@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="Email">
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toqeeryasir&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toqeeryasir&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&line_height=25" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toqeeryasir&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&line_height=25" width="48%" alt="Top Languages" />
 </p>
 
 ---
@@ -47,6 +35,17 @@
 
 #### **Tools & Platforms:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=f05033) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=181717) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479a1) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&color=f2c811)  
+
+---
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toqeeryasir&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=toqeeryasir&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&line_height=25" width="48%" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toqeeryasir&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&line_height=25" width="48%" alt="Top Languages" />
+</p>
 
 ---
 
