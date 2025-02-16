@@ -38,7 +38,7 @@
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=toqeeryasir&theme=radical&hide_border=false&include_all_commits=true&count_private=false" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toqeeryasir&theme=radical&hide_border=false" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toqeeryasir&theme=radical&hide_border=false" width="45%" hight="105%" />
 </div>
 
 ---
