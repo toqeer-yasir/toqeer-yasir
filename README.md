@@ -1,10 +1,6 @@
 <p align= "center">
-### 👋 Hi, I'm **Toqeer Yasir**
+<h2>👋 Hi, I'm Toqeer Yasir</h2>
 </p>
-
----
-
-## 🌐 Socials:
 <p align="center">
   <a href="https://instagram.com/toqeer_yasir">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=E4405F" alt="Instagram">
