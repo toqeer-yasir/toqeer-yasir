@@ -1,30 +1,10 @@
 # 💫 About Me:
 ### 👋 Hi, I'm **Toqeer Yasir**  
 🎓 **Computer Science (BSCS) Student** | 💻 **Aspiring Software Engineer**  
-🤖 Passionate about **AI, Machine Learning, and Deep Learning**  
-🌱 Always learning and exploring new technologies  
+🤖 Passionate about **AI, Machine Learning, Deep Learning and Data Visualization** 
 
 ---
 
-## 🌐 Socials:
-<p align="left">
-  <a href="https://instagram.com/toqeer_yasir">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://linkedin.com/in/toqeer-yasir-7b6b56330">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://youtube.com/@-innocent-44">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="mailto:miantoqeeryasir0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=toqeeryasir&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
@@ -59,3 +39,22 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=toqeeryasir&icon=0&color=0)](https://visitcount.itsvg.in)  
+
+
+## 🌐 Socials:
+<p align="left">
+  <a href="https://instagram.com/toqeer_yasir">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://linkedin.com/in/toqeer-yasir-7b6b56330">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://youtube.com/@-innocent-44">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="mailto:miantoqeeryasir0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
