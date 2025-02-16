@@ -16,13 +16,6 @@
 
 ---
 
-## 🐍 Contribution Graph
-<p align="center">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/toqeeryasir/toqeeryasir/output/github-snake-dark.svg" />
-</p>
-
----
-
 ### 🛠️ Tech Stack:
 
 #### **Programming Languages:**
@@ -36,6 +29,14 @@
 
 #### **Tools & Platforms:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=f05033) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=181717) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479a1) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&color=f2c811)  
+
+---
+
+
+## 🐍 Contribution Graph
+<p align="center">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/toqeeryasir/toqeeryasir/output/github-snake-dark.svg" />
+</p>
 
 ---
 
