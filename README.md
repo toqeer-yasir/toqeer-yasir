@@ -4,12 +4,12 @@
 🤖 Passionate about **AI, Machine Learning, Deep Learning and Data Visualization** 
 
 ---
-
+# Github Stats:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=toqeeryasir&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toqeeryasir&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&line_height=20" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=toqeeryasir&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&line_height=20" width="48%" hight="50%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toqeeryasir&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="48%" alt="Top Languages" />
 </p>
 
@@ -39,8 +39,6 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=toqeeryasir&icon=0&color=0)](https://visitcount.itsvg.in)  
-
-
 ## 🌐 Socials:
 <p align="left">
   <a href="https://instagram.com/toqeer_yasir">
