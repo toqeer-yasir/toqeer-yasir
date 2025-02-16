@@ -1,36 +1,36 @@
 # 💫 About Me:
-👋 Hi, I'm **Toqeer Yasir**  
-🎓 Computer Science (BSCS) Student | 💻 Aspiring Software Engineer  
-🤖 Passionate about AI, Machine Learning, and Deep Learning  
+### 👋 Hi, I'm **Toqeer Yasir**  
+🎓 **Computer Science (BSCS) Student** | 💻 **Aspiring Software Engineer**  
+🤖 Passionate about **AI, Machine Learning, and Deep Learning**  
 🌱 Always learning and exploring new technologies  
-
----
-
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toqeeryasir&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&line_height=20" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toqeeryasir&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toqeeryasir&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="48%" alt="Top Languages" />
-</p>
 
 ---
 
 ## 🌐 Socials:
 <p align="left">
   <a href="https://instagram.com/toqeer_yasir">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=ff69b4" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://linkedin.com/in/toqeer-yasir-7b6b56330">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=0077b5" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://youtube.com/@-innocent-44">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=ff0000" alt="YouTube">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
   </a>
   <a href="mailto:miantoqeeryasir0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=ea4335" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+</p>
+
+---
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toqeeryasir&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=toqeeryasir&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&line_height=20" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toqeeryasir&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="48%" alt="Top Languages" />
 </p>
 
 ---
