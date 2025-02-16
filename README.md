@@ -1,3 +1,4 @@
+<h1 align="center" color="gold">👋 Hi, I'm Toqeer Yasir</h1>
 <p align="center">
   <a href="https://instagram.com/toqeer_yasir">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=E4405F" alt="Instagram">
