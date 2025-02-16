@@ -2,7 +2,7 @@
 
 ## 🌟 About Me:
 🎓 **Computer Science (BSCS) Student**  
-💻 **Aspiring Software Engineer** passionate about 🤖 **AI**, 📈 **Machine Learning (ML)**, and 🧠 **Deep Learning**.  
+💻 **Aspiring Software Engineer** passionate about 🤖 **AI**, 📈 **Machine Learning (ML)**, 🧠 **Deep Learning**, and 📊 **Data Visualization**.  
 
 ### 🐍 Contribution Graph
 <img alt="github-snake" src="https://raw.githubusercontent.com/toqeeryasir/toqeeryasir/output/github-snake-dark.svg" />
@@ -32,14 +32,12 @@
 ---
 
 ## 📊 GitHub Stats:
-
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toqeeryasir&theme=radical&hide_border=false&include_all_commits=true&count_private=false" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toqeeryasir&theme=radical&hide_border=false" width="48.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toqeeryasir&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="90%" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toqeeryasir&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="94%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=toqeeryasir&theme=radical&hide_border=false&include_all_commits=true&count_private=false" width="45%" style="height: 180px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toqeeryasir&theme=radical&hide_border=false" width="45%" style="height: 180px;" />
 </div>
 
 ---
