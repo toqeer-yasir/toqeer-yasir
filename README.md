@@ -18,6 +18,11 @@
 
 ---
 
+## 🐍 Contribution Graph
+<img alt="github-snake" src="https://raw.githubusercontent.com/toqeeryasir/toqeeryasir/output/github-snake-dark.svg" />
+
+---
+
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=toqeeryasir&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
@@ -26,11 +31,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toqeeryasir&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&line_height=25" width="48%" alt="Top Languages" />
 </p>
-
----
-
-## 🐍 Contribution Graph
-<img alt="github-snake" src="https://raw.githubusercontent.com/toqeeryasir/toqeeryasir/output/github-snake-dark.svg" />
 
 ---
 
