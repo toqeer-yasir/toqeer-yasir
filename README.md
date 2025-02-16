@@ -1,4 +1,4 @@
-# <span style="color: #00BFFF;">Toqeer Yasir</span> ✨
+# <div align="center"><span style="color: #00BFFF;">Toqeer Yasir</span> ✨</div>
 
 ## 🌟 About Me:
 🎓 **Computer Science (BSCS) Student**  
