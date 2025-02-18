@@ -15,7 +15,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=gruvbox-light
             dist/github-contribution-grid-snake-dark.svg?palette=gruvbox-dark
-      - uses: actions/upload-artifact@v3
+
+      - uses: actions/upload-artifact@v4
         with:
           name: snake-artifact
           path: dist
