@@ -15,7 +15,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake Grid SVG
+      - name: Generate Snake Grid SVGs
         uses: Platane/snk@v3
         with:
           github_user_name: toqeeryasir
