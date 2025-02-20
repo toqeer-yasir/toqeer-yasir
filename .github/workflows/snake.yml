@@ -12,16 +12,24 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake Animation
+      - name: Generate Light Mode Snake Animation
         uses: Platane/snk@v2
         with:
           github_user_name: toqeeryasir
-          svg_output_path: dist/github-contribution-grid-snake.svg
+          svg_output_path: dist/github-contribution-grid-snake-light.svg
+          theme: light
 
-      - name: Push the animation to the repository
+      - name: Generate Dark Mode Snake Animation
+        uses: Platane/snk@v2
+        with:
+          github_user_name: toqeeryasir
+          svg_output_path: dist/github-contribution-grid-snake-dark.svg
+          theme: dark
+
+      - name: Push the animations to the repository
         run: |
           git config --global user.name "toqeeryasir"
           git config --global user.email "miantoqeeryasir0@gmail.com"
-          git add dist/github-contribution-grid-snake.svg
-          git commit -m "Update snake animation"
+          git add dist/
+          git commit -m "Update snake animations"
           git push
