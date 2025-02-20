@@ -1,0 +1,15 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @media (prefers-color-scheme: dark) {
+      .snake-image {
+        content: url("https://raw.githubusercontent.com/toqeeryasir/toqeeryasir/output/github-contribution-grid-snake-dark.svg");
+      }
+    }
+    @media (prefers-color-scheme: light) {
+      .snake-image {
+        content: url("https://raw.githubusercontent.com/toqeeryasir/toqeeryasir/output/github-contribution-grid-snake-light.svg");
+      }
+    }
+  </style>
+  <image class="snake-image" width="100%" height="100%" />
+</svg>
