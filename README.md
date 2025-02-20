@@ -5,7 +5,8 @@
 💻 **Aspiring Software Engineer** passionate about 🤖 **AI**, 📈 **Machine Learning (ML)**, 🧠 **Deep Learning**, and 📊 **Data Visualization**.  
 
 ### 🐍 Contribution Graph
-<img alt="github-snake" src="https://raw.githubusercontent.com/toqeeryasir/toqeeryasir/output/github-snake-dark.svg" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/toqeeryasir/toqeeryasir/output/github-contribution-grid-snake-dark.svg" />
+
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/toqeer_yasir) 
