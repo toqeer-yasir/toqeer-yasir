@@ -6,9 +6,9 @@
 
 ### 🐍 Contribution Graph
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toqeeryasir/toqeeryasir/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/toqeeryasir/toqeeryasir/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/toqeeryasir/toqeeryasir/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toqeer-yasir/toqeer-yasir/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/toqeer-yasir/toqeer-yasir/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/toqeer-yasir/toqeer-yasir/output/github-snake.svg" />
 </picture>
 
 
@@ -39,15 +39,15 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toqeeryasir&theme=radical&hide_border=false" width="91%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toqeer-yasir&theme=radical&hide_border=false" width="91%" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toqeeryasir&theme=radical&hide_border=false&include_all_commits=true&count_private=false" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toqeeryasir&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="39.44%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=toqeer-yasir&theme=radical&hide_border=false&include_all_commits=true&count_private=false" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toqeer-yasir&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="39.44%" />
 </div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=toqeeryasir&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=toqeer-yasir&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
