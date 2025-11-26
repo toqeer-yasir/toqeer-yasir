@@ -2,7 +2,7 @@
 
 ## 🌟 About Me:
 🎓 **Computer Science (BSCS) Student**  
-💻 **Aspiring Software Engineer** passionate about 🤖 **AI**, 📈 **Machine Learning (ML)**, 🧠 **Deep Learning**, and 📊 **Data Analysis**.  
+💻 **Aspiring Software Engineer** passionate about 🤖 **AI**, 📈 **Machine Learning (ML)**, 🧠 **Deep Learning**, 💬 **Natural Language Processing** and 🦾 **Creating AI Agents**.  
 
 ### 🐍 Contribution Graph
 <picture>
