@@ -1,10 +1,12 @@
+___
 # <div align="center"><span style="color: #00BFFF;">Toqeer Yasir</span> ✨</div>
+___
 
 ## 🌟 About Me:
 🎓 **Computer Science (BSCS) Student**  
 💻 **Aspiring Software Engineer** passionate about 🤖**AI**, 📈**Machine Learning (ML)**, 🧠**Deep Learning**, 💬**Natural Language Processing (NLP)** and 🦾**Creating AI Agents**.  
 
-### 🐍 Contribution Graph
+### 🐍 Contribution Graph:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toqeer-yasir/toqeer-yasir/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/toqeer-yasir/toqeer-yasir/output/github-snake.svg" />
