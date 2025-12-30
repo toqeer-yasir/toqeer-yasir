@@ -3,7 +3,7 @@
 ## 🌟 About:
 🎓 **Computer Science (BSCS) Student**  
 💻 **Aspiring Software Engineer** passionate about 🤖**AI**, 📈**Machine Learning (ML)**, 🧠**Deep Learning**, 💬**Natural Language Processing (NLP)** and 🦾**Creating AI Agents**.  
-Email: [!(https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:miantoqeeryasir0@gmail.com)
+[Mail][!(https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:miantoqeeryasir0@gmail.com)
 ### 🐍 Contribution Graph:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toqeer-yasir/toqeer-yasir/output/github-snake-dark.svg" />
@@ -12,7 +12,6 @@ Email: [!(https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]
 </picture>
 
 ---
-
 ## 🚀 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
