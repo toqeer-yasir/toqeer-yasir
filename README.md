@@ -3,7 +3,7 @@
 ## 🌟 About:
 🎓 **Computer Science (BSCS) Student**  
 💻 **Aspiring Software Engineer** passionate about 🤖**AI**, 📈**Machine Learning (ML)**, 🧠**Deep Learning**, 💬**Natural Language Processing (NLP)** and 🦾**Creating AI Agents**.  
-[Mail][!(https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:miantoqeeryasir0@gmail.com)
+**Email:** <sub>https://mailto:miantoqeeryasir0@gmail.com</sub>
 ### 🐍 Contribution Graph:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toqeer-yasir/toqeer-yasir/output/github-snake-dark.svg" />
