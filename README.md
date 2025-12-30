@@ -37,17 +37,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=toqeer-yasir&theme=radical&hide_border=false" width="90%" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toqeer-yasir&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toqeer-yasir&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="39.44%" />
-</div>
-
----
-
 [![](https://visitcount.itsvg.in/api?id=toqeer-yasir&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
