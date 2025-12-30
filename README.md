@@ -1,6 +1,6 @@
-## <div align="center"><span style="color: #00BFFF;">Toqeer Yasir</span> ✨</div>
+## <div align="center"><span style="color: #00BFFF;">Toqeer Yasir [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:miantoqeeryasir0@gmail.com)</span> ✨</div>
 
-## 🌟 About Me [miantoqeeryasir0@gmail.com](mailto:miantoqeeryasir0@gmail.com)  ):
+## 🌟 About:
 🎓 **Computer Science (BSCS) Student**  
 💻 **Aspiring Software Engineer** passionate about 🤖**AI**, 📈**Machine Learning (ML)**, 🧠**Deep Learning**, 💬**Natural Language Processing (NLP)** and 🦾**Creating AI Agents**.  
 
@@ -10,14 +10,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/toqeer-yasir/toqeer-yasir/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/toqeer-yasir/toqeer-yasir/output/github-snake.svg" />
 </picture>
-
-
-### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/toqeer_yasir) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/toqeer-yasir-7b6b56330) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@-innocent-44) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:miantoqeeryasir0@gmail.com)
-
 ---
 
 ## 🚀 Tech Stack:
