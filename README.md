@@ -1,6 +1,6 @@
-## <div align="center"><span style="color: #00BFFF;">Toqeer Yasir [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:miantoqeeryasir0@gmail.com)</span> ✨</div>
+## <div align="center"><span style="color: #00BFFF;">Toqeer Yasir</span> ✨</div>
 
-## 🌟 About:
+## 🌟 About [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:miantoqeeryasir0@gmail.com):
 🎓 **Computer Science (BSCS) Student**  
 💻 **Aspiring Software Engineer** passionate about 🤖**AI**, 📈**Machine Learning (ML)**, 🧠**Deep Learning**, 💬**Natural Language Processing (NLP)** and 🦾**Creating AI Agents**.  
 
@@ -10,6 +10,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/toqeer-yasir/toqeer-yasir/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/toqeer-yasir/toqeer-yasir/output/github-snake.svg" />
 </picture>
+
 ---
 
 ## 🚀 Tech Stack:
