@@ -1,6 +1,6 @@
 ## <div align="center"><span style="color: #00BFFF;">Toqeer Yasir</span> ✨</div>
 
-## 🌟 About Me:
+## 🌟 About Me [miantoqeeryasir0@gmail.com](mailto:miantoqeeryasir0@gmail.com)  ):
 🎓 **Computer Science (BSCS) Student**  
 💻 **Aspiring Software Engineer** passionate about 🤖**AI**, 📈**Machine Learning (ML)**, 🧠**Deep Learning**, 💬**Natural Language Processing (NLP)** and 🦾**Creating AI Agents**.  
 
