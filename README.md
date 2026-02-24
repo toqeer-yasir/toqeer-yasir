@@ -3,7 +3,7 @@
 ## 🌟 About:
 🎓 **Computer Science (BSCS) Student**  
 💻 **Aspiring Software Engineer** passionate about 🤖**AI**, 📈**Machine Learning (ML)**, 🧠**Deep Learning**, 💬**Natural Language Processing (NLP)** and 🦾**Creating AI Agents**.  
-**Email:** <sub>https://mailto:miantoqeeryasir0@gmail.com</sub>
+**Email:** <sub>https://mailto:toqeeryasir01@gmail.com</sub>
 
 ---
 ### 🐍 Contribution Graph:
