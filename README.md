@@ -1,8 +1,7 @@
 ## <div align="center"><span style="color: #00BFFF;">Toqeer Yasir</span> ✨</div>
 
 ## 🌟 About:
-🎓 **Computer Science (BSCS) Student**  
-💻 **Aspiring Software Engineer** passionate about 🤖**AI**, 📈**Machine Learning (ML)**, 🧠**Deep Learning**, 💬**Natural Language Processing (NLP)** and 🦾**Creating AI Agents**.  
+💻 **Passionate About** 🤖**AI**, 📈**Machine Learning (ML)**, 🧠**Deep Learning**, 💬**Natural Language Processing (NLP)** and 🦾**Creating AI Agents**.  
 **Email:** <sub>https://mailto:toqeeryasir01@gmail.com</sub>
 
 ---
