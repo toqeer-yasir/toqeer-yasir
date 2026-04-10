@@ -1,7 +1,7 @@
 ## <div align="center"><span style="color: #00BFFF;">Toqeer Yasir</span> ✨</div>
 
 ## 🌟 About:
-💻 **Passionate About** 🤖**AI**, 📈**Machine Learning (ML)**, 🧠**Deep Learning**, 💬**Natural Language Processing (NLP)** and 🦾**Creating AI Agents**.  
+💻 **I'm doing a Bachelor's in Computer Science (BSCS) specializing in Artificial Intelligence (AI), specifically Generative AI.**  
 **Email:** <sub>https://mailto:toqeeryasir01@gmail.com</sub>
 
 ---
